@@ -1,0 +1,6 @@
+type1 = type(0X7AE)
+print(type1)
+type2 = type(3+4j)
+print(type2)
+print(type((-01234)))
+print(type((3.14e-2)))
